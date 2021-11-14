@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I changed the user id!
 
 inkuringu-ika→typeling1578
+
+
+まともなものは何一つ無いです。
+ご注意ください。
