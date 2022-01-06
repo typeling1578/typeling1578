@@ -1,24 +1,6 @@
 ### Hi there 👋
-
-<!--
-**typeling1578/typeling1578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I changed the user id!
-
 inkuringu-ika→typeling1578
 
-
-まともなものは何一つ無いです。
-ご注意ください。
+アドオンとかなんか作ってます。
+Firefoxの派生ブラウザ、Thunderfoxを開発中です。(まだリリースされてない)
