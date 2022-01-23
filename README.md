@@ -5,3 +5,5 @@ inkuringu-ika→typeling1578
 
 アドオンとかなんか作ってます。
 Firefoxの派生ブラウザ、Thunderfoxを開発中です。
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=typeling1578)
