@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 アドオンとかなんか作ってます。
-Firefoxの派生ブラウザ、Thunderfoxを開発中です。
 
 ![typeling1578's GitHub stats](https://github-readme-stats.vercel.app/api?username=typeling1578&show_icons=true)
 
