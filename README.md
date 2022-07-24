@@ -4,7 +4,7 @@
 <br>
 Issueやプルリクは気軽にどうぞ！
 
-Thanks for coming back to my profile!
+Thanks for come to my profile!
 <br>
 I am a student in Japan!
 <br>
