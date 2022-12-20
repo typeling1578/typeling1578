@@ -7,6 +7,8 @@ I mainly do add-on development and Firefox-fork browser development.
 
 ![typeling1578's GitHub stats](https://github-readme-stats.vercel.app/api?username=typeling1578&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typeling1578&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game)
+
 ### Links
 Email: typeling1578@gmail.com
 
