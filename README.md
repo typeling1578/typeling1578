@@ -2,7 +2,6 @@
 
 Thanks for come to my profile!
 
-I am a high school student in Japan.
 I mainly do add-on development and Firefox-fork browser development.
 
 ![typeling1578's GitHub stats](https://github-readme-stats-typeling1578.vercel.app/api?username=typeling1578&show_icons=true)
