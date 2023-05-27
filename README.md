@@ -14,3 +14,9 @@ Email: typeling1578@gmail.com
 Twitter: [@typeling1578](https://twitter.com/typeling1578)
 
 YouTube: [@typeling1578](https://youtube.com/@typeling1578)
+
+### Donate
+
+Monero: 8ApNYpgRm9wCGdZxVQgZaEaoLQHzCpjVBC5LcCqhtPsfWRQKUgZpgxSCFPHyHh1UqGbMkK3tvrMeLDun3x4nZB4kT8yAoEa
+
+Bitcoin: bc1q0eskgsjvv8jk2sy9z5lj3c5tj9s4szpmnsh7ql
