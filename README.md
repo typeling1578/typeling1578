@@ -8,13 +8,6 @@ I mainly do add-on development.
 
 ![Top Langs](https://github-readme-stats-typeling1578.vercel.app/api/top-langs/?username=typeling1578&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game)
 
-### Links
-Email: typeling1578@gmail.com
-
-Twitter: [@typeling1578](https://twitter.com/typeling1578)
-
-YouTube: [@typeling1578](https://youtube.com/@typeling1578)
-
 ### Donate
 
 Monero: 8ApNYpgRm9wCGdZxVQgZaEaoLQHzCpjVBC5LcCqhtPsfWRQKUgZpgxSCFPHyHh1UqGbMkK3tvrMeLDun3x4nZB4kT8yAoEa
