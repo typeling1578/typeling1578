@@ -28,7 +28,3 @@ Nice to meet you! 🤝
 ### Donate
 
 <a href="https://patreon.com/typeling1578"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
-
-Monero: `8ApNYpgRm9wCGdZxVQgZaEaoLQHzCpjVBC5LcCqhtPsfWRQKUgZpgxSCFPHyHh1UqGbMkK3tvrMeLDun3x4nZB4kT8yAoEa`
-
-Bitcoin: `bc1q0eskgsjvv8jk2sy9z5lj3c5tj9s4szpmnsh7ql`
