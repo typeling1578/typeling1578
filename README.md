@@ -25,6 +25,32 @@ Nice to meet you! 🤝
 [![](https://img.shields.io/badge/-JavaScript-efd81d.svg?style=flat-square&logo=javascript&logoColor=000000)]()
 [![](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
 
+### PGP Public Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZT+DVxYJKwYBBAHaRw8BAQdAabcomka3esGfNedOk41jR3bvsmY3iW5xyboJ
+KgPhhTO0I3R5cGVsaW5nMTU3OCA8cHViQHR5cGVsaW5nMTU3OC5kZXY+iJAEExYI
+ADgWIQRpFZMuQuASU6bTtKiI/a+cpOV98wUCZT+DVwIbAQULCQgHAgYVCgkICwIE
+FgIDAQIeAQIXgAAKCRCI/a+cpOV9829jAP9A8ZotemohU9G6iJtncWbh0fAZLrP6
+NHn5S5uiJ7hrMwD+OyG/eo6VjJvJRrEqW8jZAlm9ogJn9kSgPbOpXHR6RgS4MwRl
+P4RDFgkrBgEEAdpHDwEBB0Bt8dCdhEXBOHT7e/se+pSNfvR1DW2YIYo8NEFOhu5m
+ioj1BBgWCAAmFiEEaRWTLkLgElOm07SoiP2vnKTlffMFAmU/hEMCGwIFCQHhM4AA
+gQkQiP2vnKTlffN2IAQZFggAHRYhBAQzD01QSWAaJfX4bi47EkTyEez5BQJlP4RD
+AAoJEC47EkTyEez5sAsBAKPuCFtS01gF0rETBQyBeVHfmj0zLEHMelpkiGlMZP0m
+AP0aK2/MtjoJeXLdvNMfXrs37xztbOt1bM1vorqVrx26DNC5AP9v0WkzxooR1zZs
+5mh1tf3no0Kud9bNU9eieZS9aBF5YwEAuFF0pbdwvsAvtIUFDF+Gkr7nd2Vnd/o7
++s0Et0SlMQO4MwRlP4dWFgkrBgEEAdpHDwEBB0BncV56pDS8usAdf2qKdhZQh6AN
+em79XR6MJGN5Zhqu04j1BBgWCAAmFiEEaRWTLkLgElOm07SoiP2vnKTlffMFAmU/
+h1YCGwIFCQHhM4AAgQkQiP2vnKTlffN2IAQZFggAHRYhBGwECQAD2fLE2hPD9W38
+7aoOyWLeBQJlP4dWAAoJEG387aoOyWLeg7sA/jCKe2mnIDoY4TasF9ue0cpi1FcO
+6eHEzUjUX+ARSWuDAP9CrKJCJjEMbbp9rlLsC5aBCW5Vw6BHvXscUEiOUOqVBWU3
+AP9nimXZoYYcEdC+pqbXxZU5bKJHolOaqMrIgz8VAUohFQD/Rq3wK8553VyYtZiW
+MrII0R4D1w/8yElblD9+WsiPPwE=
+=cPhD
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 ### Donate
 
 <a href="https://patreon.com/typeling1578"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
