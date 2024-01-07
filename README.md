@@ -10,7 +10,9 @@ Thanks for come to my profile!
 ### About:me
 I am a Japanese student 🇯🇵
 
-I mainly do browser add-on development.
+I mainly develop browser add-ons.
+
+I have experience developing the Firefox-fork browser.
 
 Nice to meet you! 🤝
 
