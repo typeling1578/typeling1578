@@ -12,8 +12,6 @@ I am a Japanese student 🇯🇵
 
 I mainly develop browser add-ons.
 
-I have experience developing the Firefox-fork browser.
-
 Nice to meet you! 🤝
 
 [![](https://img.shields.io/badge/Twitter-typeling1578-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/typeling1578)
