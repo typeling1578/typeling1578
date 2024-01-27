@@ -55,3 +55,7 @@ gil7Xa3udqMjjosxxU3otrByhhAF
 ### Donate
 
 <a href="https://patreon.com/typeling1578"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
+
+Bitcoin: `bc1q0eskgsjvv8jk2sy9z5lj3c5tj9s4szpmnsh7ql`
+
+Litecoin: `LU2TDsBMsvjnto7NV5MRsw9DRku3ERGxke`
