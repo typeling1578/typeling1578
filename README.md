@@ -26,36 +26,10 @@ Nice to meet you! 🤝
 [![](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
 
 ### PGP Public Key
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEZT+DVxYJKwYBBAHaRw8BAQdAabcomka3esGfNedOk41jR3bvsmY3iW5xyboJ
-KgPhhTO0I3R5cGVsaW5nMTU3OCA8cHViQHR5cGVsaW5nMTU3OC5kZXY+iJAEExYI
-ADgWIQRpFZMuQuASU6bTtKiI/a+cpOV98wUCZT+DVwIbAQULCQgHAgYVCgkICwIE
-FgIDAQIeAQIXgAAKCRCI/a+cpOV9829jAP9A8ZotemohU9G6iJtncWbh0fAZLrP6
-NHn5S5uiJ7hrMwD+OyG/eo6VjJvJRrEqW8jZAlm9ogJn9kSgPbOpXHR6RgS4MwRl
-P4dWFgkrBgEEAdpHDwEBB0BncV56pDS8usAdf2qKdhZQh6ANem79XR6MJGN5Zhqu
-04jvBBgWCAAgAhsCFiEEaRWTLkLgElOm07SoiP2vnKTlffMFAmWYTFsAgXYgBBkW
-CAAdFiEEbAQJAAPZ8sTaE8P1bfztqg7JYt4FAmU/h1YACgkQbfztqg7JYt6DuwD+
-MIp7aacgOhjhNqwX257RymLUVw7p4cTNSNRf4BFJa4MA/0KsokImMQxtun2uUuwL
-loEJblXDoEe9exxQSI5Q6pUFCRCI/a+cpOV98/5UAP98VBJRUpWsRMvFjEfGJjYl
-7ktLj2loxSNF5fIfLXsbEwEAj3LvGRIEgMOyGr3VZ9f8xIMmpiYE3J9Ca4XZPxX8
-DQ64MwRlmE02FgkrBgEEAdpHDwEBB0CZWCq78F8H0x+FBwNAGswOjhablZr7apLW
-uUcP1Y4FX4h4BBgWCAAgFiEEaRWTLkLgElOm07SoiP2vnKTlffMFAmWYTTYCGyAA
-CgkQiP2vnKTlffOu+gEA/lwxzUp/0dbrs7ihI7lIR9U0lkqsBrrQflZKzMwh4psB
-AN3q0VcwDpDuWu8BbkXJGHAZm/ZqBZaUgY41Ov3GBfQOuDgEZZhOHBIKKwYBBAGX
-VQEFAQEHQEfS78wLhNAOKUCwzc/HzrRMF67Oe1q2B8P0D2R9tFIMAwEIB4h4BBgW
-CAAgFiEEaRWTLkLgElOm07SoiP2vnKTlffMFAmWYThwCGwwACgkQiP2vnKTlffPb
-sQEA76TUtntx/yYSiCKYx6bIX8WdtYYl34XyVrizPByD6UQBAP8Cgx4Spjuq+wHa
-gil7Xa3udqMjjosxxU3otrByhhAF
-=K47I
------END PGP PUBLIC KEY BLOCK-----
-```
+https://gist.github.com/typeling1578/226e6138214e2d657520a3e24097a79c
 
 ### Donate
 
 <a href="https://patreon.com/typeling1578"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
-
-Bitcoin: `bc1q0eskgsjvv8jk2sy9z5lj3c5tj9s4szpmnsh7ql`
-
-Litecoin: `LU2TDsBMsvjnto7NV5MRsw9DRku3ERGxke`
+<br>
+<small>or [other](https://gist.github.com/typeling1578/4f703cbdae1de5a7ab3a738a0ac09b68)</small>
