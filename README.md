@@ -20,10 +20,11 @@ Nice to meet you! 🤝
 
 
 ### Skills
-[![](https://img.shields.io/badge/-HTML-dd4b25.svg?style=flat-square&logo=html5&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/-CSS-254bdd.svg?style=flat-square&logo=css3&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/-JavaScript-efd81d.svg?style=flat-square&logo=javascript&logoColor=000000)]()
-[![](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
+[![HTML](https://img.shields.io/badge/-HTML-dd4b25.svg?style=flat-square&logo=html5&logoColor=ffffff)]()
+[![CSS](https://img.shields.io/badge/-CSS-254bdd.svg?style=flat-square&logo=css3&logoColor=ffffff)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d.svg?style=flat-square&logo=javascript&logoColor=000000)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-2d79c7.svg?style=flat-square&logo=javascript&logoColor=ffffff)]()
+[![Golang](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
 
 ### PGP Public Key
 https://gist.github.com/typeling1578/226e6138214e2d657520a3e24097a79c
