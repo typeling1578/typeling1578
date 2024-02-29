@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for come to my profile!
+Thanks for coming to my profile!
 
 ### Overviews
 
