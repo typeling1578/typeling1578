@@ -24,6 +24,7 @@ Nice to meet you! 🤝
 [![CSS](https://img.shields.io/badge/-CSS-254bdd.svg?style=flat-square&logo=css3&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d.svg?style=flat-square&logo=javascript&logoColor=000000)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-2d79c7.svg?style=flat-square&logo=javascript&logoColor=ffffff)]()
+[![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=ffffff)]()
 [![Java](https://img.shields.io/badge/-Java-ec2025.svg?style=flat-square&logo=openjdk&logoColor=ffffff)]()
 [![Golang](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
 
