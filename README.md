@@ -4,7 +4,7 @@ Thanks for coming to my profile!
 
 ### Overviews
 
-| <img align="center" src="https://github-readme-stats.typeling1578.dev/?username=typeling1578&show_icons=true&theme=transparent&hide_border=true" alt="typeling1578's GitHub stats" /> | <img align="center" src="https://github-readme-stats.typeling1578.dev/top-langs/?username=typeling1578&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
+| <img align="center" src="https://github-readme-stats.typeling1578.dev/api/?username=typeling1578&show_icons=true&theme=transparent&hide_border=true" alt="typeling1578's GitHub stats" /> | <img align="center" src="https://github-readme-stats.typeling1578.dev/api/top-langs/?username=typeling1578&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ### About:me
