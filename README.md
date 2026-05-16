@@ -17,7 +17,7 @@
 ### Links
 
 [![](https://img.shields.io/badge/Twitter-typeling1578-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/typeling1578)
-[![](https://img.shields.io/badge/Misskey-typeling1578@misskey.typeling1578.dev-9ec23f.svg?style=for-the-badge&logo=misskey&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/Misskey-typeling1578@misskey.typeling1578.dev-9ec23f.svg?style=for-the-badge&logo=misskey&logoColor=ffffff)](https://misskey.typeling1578.dev/@typeling1578)
 [![](https://img.shields.io/badge/YouTube-typeling1578-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCW_yItmX2SbJDiOYBRXn1ZA)
 
 ### PGP Public Key
