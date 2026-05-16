@@ -1,23 +1,9 @@
-### Hi there 👋
-
-Thanks for coming to my profile!
+**Engineer / Web Developer**
 
 ### Overviews
 
 | <img align="center" src="https://github-readme-stats.typeling1578.dev/api/?username=typeling1578&show_icons=true&theme=transparent&hide_border=true" alt="typeling1578's GitHub stats" /> | <img align="center" src="https://github-readme-stats.typeling1578.dev/api/top-langs/?username=typeling1578&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
 | ------------- | ------------- |
-
-### About:me
-I am a Japanese student 🇯🇵
-
-I mainly develop browser add-ons.
-
-Nice to meet you! 🤝
-
-[![](https://img.shields.io/badge/Twitter-typeling1578-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/typeling1578)
-[![](https://img.shields.io/badge/Misskey-typeling1578@misskey.typeling1578.dev-9ec23f.svg?style=for-the-badge&logo=misskey&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/YouTube-typeling1578-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCW_yItmX2SbJDiOYBRXn1ZA)
-
 
 ### Skills
 [![HTML](https://img.shields.io/badge/-HTML-dd4b25.svg?style=flat-square&logo=html5&logoColor=ffffff)]()
@@ -27,6 +13,12 @@ Nice to meet you! 🤝
 [![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=ffffff)]()
 [![Java](https://img.shields.io/badge/-Java-ec2025.svg?style=flat-square&logo=openjdk&logoColor=ffffff)]()
 [![Golang](https://img.shields.io/badge/-Golang-2cb6aa.svg?style=flat-square&logo=go&logoColor=ffffff)]()
+
+### Links
+
+[![](https://img.shields.io/badge/Twitter-typeling1578-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/typeling1578)
+[![](https://img.shields.io/badge/Misskey-typeling1578@misskey.typeling1578.dev-9ec23f.svg?style=for-the-badge&logo=misskey&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/YouTube-typeling1578-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCW_yItmX2SbJDiOYBRXn1ZA)
 
 ### PGP Public Key
 https://gist.github.com/typeling1578/226e6138214e2d657520a3e24097a79c
