@@ -26,6 +26,6 @@ https://gist.github.com/typeling1578/226e6138214e2d657520a3e24097a79c
 
 ### Donate
 
-<a href="https://patreon.com/typeling1578"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
+<a href="https://patreon.com/typeling1578"><img width="200" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
 <br>
 <small>or [other](https://gist.github.com/typeling1578/4f703cbdae1de5a7ab3a738a0ac09b68)</small>
